@@ -1,4 +1,3 @@
-# CMBS-Data-Cleaning-and-ML
 # CMBS Data Pipeline — California Retail Properties
 
 **Author:** Ruoling (Iris) Li  
